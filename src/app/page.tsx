@@ -100,7 +100,7 @@ export default function MaskifyPage() {
           Maskify
         </h1>
         <p className="mt-3 text-lg sm:text-xl text-muted-foreground max-w-2xl mx-auto">
-          Create custom image masks with ease. Upload, draw, and download your masterpiece.
+          Create custom image masks with ease. Upload, draw, and download your image mask.
         </p>
       </header>
 
@@ -210,7 +210,7 @@ export default function MaskifyPage() {
         )}
       </div>
       <footer className="mt-16 text-center text-muted-foreground text-sm">
-        <p>&copy; {new Date().getFullYear()} Maskify. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} allenbijo. All rights reserved.</p>
         <p>Built with Next.js and ShadCN UI.</p>
       </footer>
     </main>
