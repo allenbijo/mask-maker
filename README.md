@@ -1,5 +1,5 @@
-# Firebase Studio
+# Maskify
 
-This is a NextJS starter in Firebase Studio.
+Made with love from the robots at Firebase Studio
 
-To get started, take a look at src/app/page.tsx.
+Check it out at maskify.allenbijo.com
